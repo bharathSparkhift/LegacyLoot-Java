@@ -1,0 +1,5 @@
+com\legacy\loot\repo\GameRoomRepo.class
+com\legacy\loot\service\GameRoomService.class
+com\legacy\loot\controller\GameRoomController.class
+com\legacy\loot\LegacyLootApplication.class
+com\legacy\loot\entity\GameRoom.class
